@@ -1,0 +1,12 @@
+#include <iossteam> 
+using namespace std;
+
+int main() {
+    cout << "hello, group 3!" << endl;
+    cout << "hello, maurin!" << endl;
+    cout << "hello, mansahay!" << endl;
+    cout << "hello, hassan!" << endl;
+    cout << "hello, gk!" << endl;
+    
+    return 0;
+}
